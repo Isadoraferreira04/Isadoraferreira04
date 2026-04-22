@@ -1,6 +1,6 @@
 ## 💻 Isadora Sampaio
 
-**"Desenvolvedora FullStack em formação"**
+**Desenvolvedora FullStack em formação**
 
 Me chamo Isadora Ferreira Sampaio, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Ciência da Computação na FADERGS. Fiz parte recentemente de um programa de bolsas administrado pela empresa BRISA com a duração de 6 meses(fase final) em que adquiri muita experiência fazendo um sistema real pra SICT do RS. Spu apaixonada por tecnologia e pela área e espero em breve poder compartilhar cada vez mais sobre o que tenho aprendido e feito.
 
